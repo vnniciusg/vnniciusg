@@ -10,7 +10,7 @@ Here are some of the skills and technologies I have knowledge of:
 
 - **Programming Languages:** Python and JavaScript.
 - **Front-end Technologies:** HTML, CSS, JavaScript, React.
-- **Back-end Technologies:** Node.js, Express, Prisma, Django, Flask.
+- **Back-end Technologies:** Node.js, Express, Django, Flask.
 - **Database:** MySQL, PostgreSQL, MongoDB.
 - **Tools:** Git, GitHub, Docker, VS Code.
 - **Machine Learning and Data Science:** Pandas, Seaborn , TensorFlow, Keras, PyTorch.
