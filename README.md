@@ -27,3 +27,8 @@ You can reach out to me through the following platforms:
 
 Feel free to contact me to discuss projects, ideas, or just to exchange knowledge about programming and technology. Thank you for visiting my profile!
 
+<div>
+<a href="https://github.com/vnniciusg">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnniciusg&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
