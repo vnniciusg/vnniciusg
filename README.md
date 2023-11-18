@@ -9,10 +9,10 @@ Currently, I am focusing on developing my programming skills and acquiring knowl
 Here are some of the skills and technologies I have knowledge of:
 
 - **Programming Languages:** Python , TypeScript ,Java e Golang.
-- **Front-end Technologies:** HTML, CSS, JavaScript, React.
+- **Front-end Technologies:** HTML, CSS, React , Next.
 - **Back-end Technologies:** Node.js, Express, Django, Flask e SpringBoot.
 - **Database:** MySQL, PostgreSQL, MongoDB , MSFT SQLServer.
-- **Tools:** Git, GitHub, Docker, VS Code , Goland.
+- **Tools:** Git, GitHub, Docker, VS Code , Goland , IntelliJ .
 - **Machine Learning and Data Science:** Pandas, Seaborn , TensorFlow, Keras, PyTorch.
 
 ## Contact
