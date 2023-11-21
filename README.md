@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vnniciusg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vnniciusg@gmail.com)](mailto:vnniciusg@gmail.com)
 
 
-##My name is Vinnicius Santos
+## My name is Vinnicius Santos
 
 (Golang | Java | Python | Typescript | JavaScript | Spring Boot | Flask | NodeJS | ReactJS | Next JS | Pytorch | Keras | TensorFlow )
 - 🎓 Computer Science Student @ [UNIFAGOC](https://unifagoc.edu.br/)
