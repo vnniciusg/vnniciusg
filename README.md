@@ -1,7 +1,7 @@
 <h1>Hello! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinnicius-santos12/)](https://www.linkedin.com/in/vinnicius-santos12/)
-[![Gmail Badge](https://img.shields.io/badge/-vnniciusg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vnniciusg@gmail.com)](mailto:vnniciusg@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1976D2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinnicius-santos12/)](https://www.linkedin.com/in/vinnicius-santos12/)
+[![Gmail Badge](https://img.shields.io/badge/-vnniciusg@gmail.com-1976D2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vnniciusg@gmail.com)](mailto:vnniciusg@gmail.com)
 
 <img align="right" alt="Code Guy image" src="./profile_image.jpg"  width="300px"/>
 
