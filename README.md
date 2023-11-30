@@ -8,6 +8,7 @@
 ## My name is Vinnicius Santos
 
 ( Golang | Java | Python | Typescript | JavaScript | Spring Boot | Flask | NodeJS | ReactJS | Next JS | Pytorch | Keras | TensorFlow )
+
 - 🎓 Computer Science Student @ [UNIFAGOC](https://unifagoc.edu.br/)
 - 🌐 Passionate about back-end development and data science
 - 📚 Always eager to learn and explore new technologies 🤓
