@@ -7,7 +7,7 @@
 
 ## My name is Vinnicius Santos
 
-( Golang | Java | Python | Typescript | Spring Boot | Flask | NodeJS | PyTorch )
+( Golang | Java | Python | Typescript | Spring Boot | Flask | FastAPI | NodeJS | PyTorch )
 
 - 🎓 Computer Science Student @ [UNIFAGOC](https://unifagoc.edu.br/)
 - 🌐 Passionate about back-end development and data science
