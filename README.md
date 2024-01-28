@@ -17,6 +17,7 @@
 
 <div align="left">
   
+
 [![Vnniciusg top languages](https://github-readme-stats-navy-iota-95.vercel.app/api/top-langs/?username=vnniciusg&theme=blue-white&exclude_repo=aulas-pnl-alutra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
