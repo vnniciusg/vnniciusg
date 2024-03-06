@@ -9,10 +9,10 @@
 
 ( Golang | Java | Python | Typescript | Spring Boot | Flask | FastAPI | NodeJS | PyTorch )
 
-- 🎓 Computer Science Student @ [UNIFAGOC](https://unifagoc.edu.br/)
+- 🎓 Backend and Machine Learning Developer
 - 🌐 Passionate about back-end development and data science
 - 📚 Always eager to learn and explore new technologies 🤓
-- 📊 Interest in machine learning and artificial intelligence applications
+- 📊 Interest in machine learning  applications
 
 <div align="left">
   
