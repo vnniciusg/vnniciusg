@@ -5,7 +5,7 @@
 
 <img align="right" alt="Code Guy image" src="./profile_image.jpg"  width="300px"/>
 
-## My name is Vinnicius Santos
+## My name is Vinnicius
 
 ( Golang | Java | Python | Typescript | Spring Boot | Flask | FastAPI | NodeJS | PyTorch )
 
