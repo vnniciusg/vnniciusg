@@ -12,8 +12,10 @@
 - 📚 Always eager to learn and explore new technologies 🤓
 - 📊 Interest in machine learning  applications
 
-<div align="left">
+<div align="right" width="300px">
   
 [![Vnniciusg top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnniciusg&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+
