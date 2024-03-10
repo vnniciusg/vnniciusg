@@ -5,7 +5,7 @@
 
 ## My name is Vinnicius
 
-( Golang | Java | Python | Typescript | Spring Boot | Flask | FastAPI | NodeJS | PyTorch )
+( Go | Java | Python | Typescript | Spring Boot | Flask | FastAPI | NodeJS | PyTorch )
 
 - 🎓 Backend and Machine Learning Developer
 - 🌐 Passionate about back-end development and data science
