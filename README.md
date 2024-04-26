@@ -12,12 +12,13 @@
 - 📚 Always eager to learn and explore new technologies 🤓
 - 📊 Interest in machine learning  applications
 
-<div align="left" width="300px">
+<div >
   
-[![Vnniciusg top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vnniciusg&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/vnniciusg">
+<img height="180em" src="https://github-readme-stats-zeta-seven-82.vercel.app/api/top-langs/?username=vnniciusg&layout=compact&langs_count=7&theme=blue-white"/>
 
+<a href="https://github.com/vnniciusg">
+<img height="180em" src="https://github-readme-stats-zeta-seven-82.vercel.app/api?username=vnniciusg&show_icons=true&theme=blue-white"/>
+  
 </div>
-
-
-
 
